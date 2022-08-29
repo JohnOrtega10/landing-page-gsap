@@ -1,11 +1,11 @@
-import LandingPage from './components/LandingPage';
+import Landing from './components/Landing';
 
 
 
 function App() {
   return (
     <div>
-      <LandingPage/>
+      <Landing/>
     </div>
   );
 }
